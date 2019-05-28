@@ -8,6 +8,7 @@ In this project, it's required to label each pixel of the road image to find whe
 This is the result of using training model to find the road in one of the road images:
 ![path planning][image1]
 
+The code is in main.py and also in main.ipynb which I used Jupyter to debug the training script. The inferenced samples are saved in runs/1558923059.249099 folder.
 
 
 Below is the original Read-Me File
