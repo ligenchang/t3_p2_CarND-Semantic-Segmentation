@@ -1,3 +1,17 @@
+# Semantic Segmentation Project Overview
+In this project, it's required to label each pixel of the road image to find where is the road with a Fully convolutional network, layer 3, 4 and 7 of pre-trained vgg16 model are used for creating skiping layers in fully convolution network.
+
+[//]: # (Image References)
+
+[image1]: ./runs/1558923059.249099/umm_000039.png "result"
+
+This is the result of using training model to find the road in one of the road images:
+![path planning][image1]
+
+
+
+Below is the original Read-Me File
+
 # Semantic Segmentation
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
